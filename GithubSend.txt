@@ -1,0 +1,12 @@
+git status
+    - kontrola stavz
+git add .
+    - Pŕidání dat
+
+git commit -m 
+    "Popis změn (např. Přidání nové funkce správy zákazníků)"
+
+git push
+
+Jeden přikaz: git add . && git commit -m "Popis změn" && git push
+
