@@ -1,0 +1,9 @@
+{
+    "table_name": "customers",
+    "columns": [
+      {"name": "id", "type": "Integer", "primary_key": true},
+      {"name": "name", "type": "String", "nullable": false},
+      {"name": "web", "type": "String", "nullable": true}
+    ]
+  }
+  
